@@ -1,0 +1,31 @@
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Vasantha.K\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\term... 
+   2 python testing.py
+   3 rm testing.py
+   4 ls
+   5 git init
+   6 ls -a
+   7 dir
+   8 dir /a
+   9 dir /ah
+  10 dir -Force
+  11 clear
+  12 dir -Force | findstr ".git"...
+  13 dir -Force
+  14 git status
+  15 git add testing.py
+  16 python testing.py2
+  17 git init
+  18 git status
+  19 git status
+  20 clear
+  21 git status
+  22 git add testing.py2
+  23 git status
+  24 git rm --cached testing.py2
+  25 git status
+  26 git add testing.py2
+  27 git status
+  28 git commit -m "added testing files"
+  29 git status
